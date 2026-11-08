@@ -17427,6 +17427,18 @@
 	<programme channel="咪咕综合体育" start="20261108060000 +0800" stop="20261108120000 +0800">
 		<title lang="zh">UFC格斗之夜 阿科斯塔-沃克 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261108120000 +0800" stop="20261108120500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261108120500 +0800" stop="20261108134500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第4轮 北京首钢-广州智度集团</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261108134500 +0800" stop="20261108140000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261108140000 +0800" stop="20261108174000 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第30轮 山东泰山-成都蓉城 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17465,6 +17477,27 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261108090500 +0800" stop="20261108104500 +0800">
 		<title lang="zh">网球世界-2026中国网球公开赛 女单决赛 郑钦文-米拉b7安德列娃</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108104500 +0800" stop="20261108110000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108110000 +0800" stop="20261108114500 +0800">
+		<title lang="zh">谁羽争锋-2026BWF北极羽毛球公开赛 混双决赛 蒋振邦/魏雅欣-高家炫/吴梦莹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108115000 +0800" stop="20261108135000 +0800">
+		<title lang="zh">网球世界-2026WTA500宁波站女双决赛 布克沙/梅里查尔-克劳茨克/斯朵拉</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108135000 +0800" stop="20261108135500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108135500 +0800" stop="20261108162000 +0800">
+		<title lang="zh">一杆定音-2026斯诺克深圳公开赛 决赛第二阶段 吴宜泽-袁思俊</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108162000 +0800" stop="20261108163000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261108163000 +0800" stop="20261108171000 +0800">
+		<title lang="zh">国球荣耀-2026亚洲乒乓球锦标赛 女双决赛 张本美和/早田希娜-蒯曼/王艺迪</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -56061,6 +56094,117 @@
 	<programme channel="青岛tv5" start="20261108231900 +0800" stop="20261108235900 +0800">
 		<title lang="zh">棋牌英雄传之够级英雄2025</title>
 	</programme>
+	<channel id="青岛tv6">
+		<display-name lang="zh">青岛TV6</display-name>
+	</channel>
+	<programme channel="青岛tv6" start="20261108000000 +0800" stop="20261108070500 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108070500 +0800" stop="20261108073800 +0800">
+		<title lang="zh">校长说</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108073800 +0800" stop="20261108075900 +0800">
+		<title lang="zh">小白帆大舞台</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108075900 +0800" stop="20261108081500 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108081500 +0800" stop="20261108084600 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108084600 +0800" stop="20261108091700 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108091700 +0800" stop="20261108094700 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108094700 +0800" stop="20261108101800 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108101800 +0800" stop="20261108105100 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108105100 +0800" stop="20261108112100 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108112100 +0800" stop="20261108120000 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108120000 +0800" stop="20261108124500 +0800">
+		<title lang="zh">悬崖03</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108124500 +0800" stop="20261108133100 +0800">
+		<title lang="zh">悬崖04</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108133100 +0800" stop="20261108141700 +0800">
+		<title lang="zh">悬崖05</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108141700 +0800" stop="20261108150300 +0800">
+		<title lang="zh">悬崖06</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108150300 +0800" stop="20261108155100 +0800">
+		<title lang="zh">悬崖07</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108155100 +0800" stop="20261108161200 +0800">
+		<title lang="zh">小白帆大舞台</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108161200 +0800" stop="20261108163500 +0800">
+		<title lang="zh">寻禹记01</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108163500 +0800" stop="20261108170100 +0800">
+		<title lang="zh">寻禹记02</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108170100 +0800" stop="20261108171000 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108171000 +0800" stop="20261108172000 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108172000 +0800" stop="20261108173300 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108173300 +0800" stop="20261108174600 +0800">
+		<title lang="zh">小白帆乐园（一）</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108174600 +0800" stop="20261108180000 +0800">
+		<title lang="zh">小白帆乐园（二）</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108180000 +0800" stop="20261108182300 +0800">
+		<title lang="zh">小白帆大舞台</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108182300 +0800" stop="20261108190200 +0800">
+		<title lang="zh">小白帆乐园（三）</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108190200 +0800" stop="20261108195100 +0800">
+		<title lang="zh">美好生活40</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108195100 +0800" stop="20261108195600 +0800">
+		<title lang="zh">师说</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108195600 +0800" stop="20261108200900 +0800">
+		<title lang="zh">师说</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108200900 +0800" stop="20261108203100 +0800">
+		<title lang="zh">学问</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108203100 +0800" stop="20261108205800 +0800">
+		<title lang="zh">正是少年读书时</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108205800 +0800" stop="20261108213700 +0800">
+		<title lang="zh">直通高考</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108213700 +0800" stop="20261108220700 +0800">
+		<title lang="zh">校长说</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108220700 +0800" stop="20261108225400 +0800">
+		<title lang="zh">青少年法治学堂</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108225400 +0800" stop="20261108233400 +0800">
+		<title lang="zh">筑梦百年01</title>
+	</programme>
+	<programme channel="青岛tv6" start="20261108233400 +0800" stop="20261108235900 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
 	<channel id="青海卫视">
 		<display-name lang="zh">青海卫视</display-name>
 	</channel>
@@ -58377,6 +58521,21 @@
 	<programme channel="newtv超级综艺" start="20261108085000 +0800" stop="20261108095000 +0800">
 		<title lang="zh">新花路放</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261108095000 +0800" stop="20261108110700 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261108110700 +0800" stop="20261108123500 +0800">
+		<title lang="zh">味你而来拾鲜季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261108123500 +0800" stop="20261108141400 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261108141400 +0800" stop="20261108153000 +0800">
+		<title lang="zh">你好时光 第二季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261108153000 +0800" stop="20261108164700 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58407,6 +58566,21 @@
 	<programme channel="newtv超级体育" start="20261108090000 +0800" stop="20261108113000 +0800">
 		<title lang="zh">2026/2027赛季美国职业篮球联赛-常规赛（尼克斯-骑士）</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261108113000 +0800" stop="20261108120000 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第9轮集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261108120000 +0800" stop="20261108123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261108123500 +0800" stop="20261108125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261108125500 +0800" stop="20261108150000 +0800">
+		<title lang="zh">2026中国杯世界花样滑冰大奖赛-男单自由滑</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261108150000 +0800" stop="20261108175500 +0800">
+		<title lang="zh">2026中国足球超级联赛-第30轮 （山东泰山—成都蓉城）</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58427,6 +58601,24 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261108081700 +0800" stop="20261108093000 +0800">
 		<title lang="zh">最后的武林</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261108093000 +0800" stop="20261108104000 +0800">
+		<title lang="zh">最后的武林2铁砂掌</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261108104000 +0800" stop="20261108120000 +0800">
+		<title lang="zh">巫师猎人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261108120000 +0800" stop="20261108133500 +0800">
+		<title lang="zh">移城别恋</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261108133500 +0800" stop="20261108151000 +0800">
+		<title lang="zh">洛克海特的遗物</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261108151000 +0800" stop="20261108163100 +0800">
+		<title lang="zh">迷失太空</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261108163100 +0800" stop="20261108175900 +0800">
+		<title lang="zh">时速72</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58463,6 +58655,39 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261108084300 +0800" stop="20261108092800 +0800">
 		<title lang="zh">06_潜行者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108092800 +0800" stop="20261108101400 +0800">
+		<title lang="zh">07_潜行者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108101400 +0800" stop="20261108101800 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108101800 +0800" stop="20261108110400 +0800">
+		<title lang="zh">23_山花烂漫时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108110400 +0800" stop="20261108114900 +0800">
+		<title lang="zh">01_西北岁月</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108114900 +0800" stop="20261108123400 +0800">
+		<title lang="zh">02_西北岁月</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108123400 +0800" stop="20261108132000 +0800">
+		<title lang="zh">03_西北岁月</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108132400 +0800" stop="20261108141000 +0800">
+		<title lang="zh">07_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108141000 +0800" stop="20261108145500 +0800">
+		<title lang="zh">08_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108145500 +0800" stop="20261108154100 +0800">
+		<title lang="zh">09_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108154100 +0800" stop="20261108162600 +0800">
+		<title lang="zh">10_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261108163100 +0800" stop="20261108171600 +0800">
+		<title lang="zh">08_你比星光美丽</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59048,6 +59273,42 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261108083300 +0800" stop="20261108091500 +0800">
 		<title lang="zh">02_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108091500 +0800" stop="20261108094500 +0800">
+		<title lang="zh">美好生活第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108094500 +0800" stop="20261108102600 +0800">
+		<title lang="zh">03_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108102600 +0800" stop="20261108105600 +0800">
+		<title lang="zh">美好生活第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108105600 +0800" stop="20261108114000 +0800">
+		<title lang="zh">36_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108114000 +0800" stop="20261108121000 +0800">
+		<title lang="zh">美好生活第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108121000 +0800" stop="20261108125100 +0800">
+		<title lang="zh">37_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108125100 +0800" stop="20261108133500 +0800">
+		<title lang="zh">38_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108133500 +0800" stop="20261108140500 +0800">
+		<title lang="zh">美好生活第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108140500 +0800" stop="20261108144800 +0800">
+		<title lang="zh">01_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108144800 +0800" stop="20261108152300 +0800">
+		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108152300 +0800" stop="20261108160500 +0800">
+		<title lang="zh">02_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261108160500 +0800" stop="20261108165000 +0800">
+		<title lang="zh">09_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
